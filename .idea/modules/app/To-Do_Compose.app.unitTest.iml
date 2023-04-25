@@ -18,8 +18,9 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/bdf0e2077d89cd7ac04f434fe91150bb/transformed/material-ripple-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/49ea91c8a6846a2163ad599ed90cdd70/transformed/material-icons-core-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f1969a4a2555d65b4e0b85566faf4b62/transformed/material-1.4.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/d45860379bf0fc8ca69ea402acbda201/transformed/foundation-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/4cbafc78581a7596714fe28cd9ffab3f/transformed/navigation-compose-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/58e82498048e4b3d99f4872aa0554d5f/transformed/animation-core-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/d45860379bf0fc8ca69ea402acbda201/transformed/foundation-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/44a2ed330be770801daa286572344793/transformed/animation-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/323d5817c4fc2f278eb8a5a0caa45be1/transformed/foundation-layout-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b17601dacd604eccc2a86d5af2f0f11d/transformed/ui-unit-1.4.1-api.jar</arg>
@@ -28,21 +29,27 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7dac738a6560aab55e4eb3d41f6638f9/transformed/ui-geometry-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e23eff3f70b86a7ba849b1d8a478404c/transformed/ui-tooling-data-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/69149ad55e4f463a9a94a6248ed2f396/transformed/ui-tooling-preview-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/42ed0877eb200d650b447cad37098d19/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/7a3c58d873e93f0b12b4ecd01c444f87/transformed/navigation-runtime-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/183c6f225746937c44ef4106fccac9ad/transformed/activity-ktx-1.7.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2b874b6baec0bede9060a0da07f7e5c2/transformed/activity-compose-1.7.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/ff2a11ed28316b04eff5761e1a8d7f87/transformed/ui-1.4.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/10865ab16b7e16acc507657b3fb2bce3/transformed/ui-tooling-1.4.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/b93bb8b95098d5fe0a8ff9cf6e52101c/transformed/ui-test-manifest-1.4.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6370c03783cd817252afd704ce7018d2/transformed/hilt-android-2.36-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/88e5574a4669e6a63cfe065976a4d457/transformed/fragment-1.3.2-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/d2b3a757b64533838b930a42267513da/transformed/activity-1.7.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a83bc0cd71932cbf8ef8c967c69a97b4/transformed/loader-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e1736a68803d791152be225948e06e41/transformed/lifecycle-livedata-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a9da2f3c414e697f1f08956c2e20fad9/transformed/lifecycle-livedata-core-2.6.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.6.1/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.6.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c2dc8180b5a5caf52d85b2da0216c8bd/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/30cd92d84b52841c288b2d3a9ed9c817/transformed/navigation-common-2.5.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a357d3044d449058b980564e2343340c/transformed/lifecycle-viewmodel-ktx-2.6.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/2febb21d58e2e922406f45b469f0e0b5/transformed/lifecycle-viewmodel-savedstate-2.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.1/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a58e297d1cfbf41154c19d2f65a0dac9/transformed/lifecycle-viewmodel-2.6.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/2febb21d58e2e922406f45b469f0e0b5/transformed/lifecycle-viewmodel-savedstate-2.6.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/c9ff96ee324d360ac1c966f9fe1ec2af/transformed/lifecycle-viewmodel-compose-2.6.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ff2a11ed28316b04eff5761e1a8d7f87/transformed/ui-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/10865ab16b7e16acc507657b3fb2bce3/transformed/ui-tooling-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/b93bb8b95098d5fe0a8ff9cf6e52101c/transformed/ui-test-manifest-1.4.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/d2b3a757b64533838b930a42267513da/transformed/activity-1.7.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3a9f695957ae9fb53396a092c340e8c7/transformed/core-ktx-1.10.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b29af621767dd668fcd8d9d55be90b33/transformed/viewpager-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a13e22bce8cbe012673c1a2f1b5061eb/transformed/customview-1.0.0-api.jar</arg>
@@ -159,6 +166,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.6.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.6.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-common:2.5.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.datastore:datastore-core:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.datastore:datastore-preferences-core:1.0.0" level="project" />
@@ -201,6 +209,12 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.7.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-compose:2.5.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.5.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common-ktx:2.5.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.5.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-runtime:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.sqlite:sqlite:2.3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.sqlite:sqlite-framework:2.3.1@aar" level="project" />
