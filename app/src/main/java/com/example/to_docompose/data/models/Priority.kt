@@ -13,5 +13,4 @@ enum class Priority(val color: Color) {
     MEDIUM(MediumPriorityColor),
     LOW(LowPriorityColor),
     NONE(NonePriorityColor)
-
 }

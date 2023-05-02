@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/D:/Android_SDK/icons/material/materialicons/more_vert/baseline_more_vert_24.xml" />
+                                      <entry key="url" value="file:/D:/Android_SDK/icons/material/materialicons/sentiment_very_dissatisfied/baseline_sentiment_very_dissatisfied_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_vertical_menu" />
+                            <entry key="outputName" value="ic_sad_face" />
                             <entry key="sourceFile" value="C:\Users\admin\AndroidStudioProjects\android-kotlin-fundamentals-starter-apps-master\ToDoCompose" />
                           </map>
                         </option>
