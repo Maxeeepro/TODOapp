@@ -26,6 +26,8 @@ fun ListScreen(
     navigateToTaskScreen: (taskId: Int) -> Unit,
     sharedViewModel: SharedViewModel
 ) {
+    //Used for getting all tasks
+    //Lauch a suspend funtion, start new coroutine
     LaunchedEffect(key1 = true) {
         sharedViewModel.getAllTasks()
     }

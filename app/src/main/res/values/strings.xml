@@ -1,4 +1,10 @@
 <resources>
+
+    <string name="drop_down_arrow">Drop-Down Arrow Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="add_task">Add Task</string>
     <string name="empty_content">No Tasks Found.</string>
     <string name="sad_face_icon">Sad Face Icon</string>
     <string name="app_name">To-Do Compose</string>
@@ -10,4 +16,6 @@
     <string name="search_action">Search Tasks</string>
     <string name="sort_action">Sort Tasks</string>
     <string name="delete_all_action">Delete All</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
 </resources>

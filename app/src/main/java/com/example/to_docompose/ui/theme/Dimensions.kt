@@ -8,5 +8,5 @@ val SMALL_PADDING = 6.dp
 
 val PRIORITY_INDICATOR_SIZE = 16.dp
 val TOP_APP_BAR_HEIGHT = 56.dp //from Material off documentation
-
+val PRIORITY_DROP_DOWN_HEIGHT = 60.dp
 val TASK_ITEM_ELEVATION =2.dp
