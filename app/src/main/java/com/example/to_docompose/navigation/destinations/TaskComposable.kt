@@ -11,8 +11,6 @@ import androidx.navigation.navArgument
 import com.example.to_docompose.ui.screens.task.TaskScreen
 import com.example.to_docompose.ui.viewmodels.SharedViewModel
 import com.example.to_docompose.util.Action
-import com.example.to_docompose.util.Constants.LIST_ARGUMENT_KEY
-import com.example.to_docompose.util.Constants.LIST_SCREEN
 import com.example.to_docompose.util.Constants.TASK_ARGUMENT_KEY
 import com.example.to_docompose.util.Constants.TASK_SCREEN
 
@@ -26,12 +24,16 @@ fun NavGraphBuilder.taskComposable(
         }
     )){ navBackStackEntry ->
         val taskId = navBackStackEntry.arguments!!.getInt(TASK_ARGUMENT_KEY)
+        Log.d("NavigationArguments", "arguments from list screen task id" + taskId)
         sharedViewModel.getSelectedTask(taskId = taskId)
+        //I observe selected task from the sharedViewModel
         val selectedTask by sharedViewModel.selectedTask.collectAsState()
-        //Whenever tasId will be changed 'LaunchedEffect" will be trigered
-        LaunchedEffect(key1 = taskId) {
+
+        //Whenever selectedTask changes 'LaunchedEffect" calls
+        LaunchedEffect(key1 = selectedTask) {
             sharedViewModel.updateTaskFields(selectedTask)
         }
+
         TaskScreen(
             selectedTask = selectedTask,
             sharedViewModel = sharedViewModel,

@@ -16,10 +16,12 @@ fun SetupNavigation( navController: NavHostController, sharedViewModel: SharedVi
     }
     //Navigation Graph
     NavHost(navController = navController, startDestination = LIST_SCREEN) {
+        //Sends task Id to task screen
         listComposable(
             navigateToTaskScreen = screen.task,
             sharedViewModel = sharedViewModel
         )
+        //Sends Action to list screen
         taskComposable(
             navigateToListScreen = screen.list,
             sharedViewModel = sharedViewModel

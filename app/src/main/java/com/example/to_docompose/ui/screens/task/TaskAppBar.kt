@@ -1,5 +1,6 @@
 package com.example.to_docompose.ui.screens.task
 
+import android.util.Log
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
@@ -22,6 +23,7 @@ fun TaskAppBar(
     navigateToListScreen: (Action) -> Unit
 ) {
     if (selectedTask == null){
+        Log.d("TaskBar", "Selected task is null New Task App Bar")
         NewTaskAppBar(
             navigateToListScreen = navigateToListScreen
         )
