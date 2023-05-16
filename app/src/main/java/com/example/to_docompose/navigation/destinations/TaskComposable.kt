@@ -31,9 +31,11 @@ fun NavGraphBuilder.taskComposable(
 
         //Whenever selectedTask changes 'LaunchedEffect" calls
         LaunchedEffect(key1 = selectedTask) {
-            sharedViewModel.updateTaskFields(selectedTask)
+            //If FAB clicked or Selected task clicked
+            if(selectedTask != null || taskId == -1) {
+                sharedViewModel.updateTaskFields(selectedTask)
+            }
         }
-
         TaskScreen(
             selectedTask = selectedTask,
             sharedViewModel = sharedViewModel,
